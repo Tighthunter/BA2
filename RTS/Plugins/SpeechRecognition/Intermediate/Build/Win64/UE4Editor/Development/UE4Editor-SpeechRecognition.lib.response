@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpeechRecognition.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"F:\Unreal_Projects\BA2\RTS\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
+"F:\Unreal_Projects\BA2\RTS\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\SpeechRecognition.generated.cpp.obj"
+"F:\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\PCLaunch.rc.res"
+"F:\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\Unreal_Projects\BA2\RTS\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SpeechRecognition.lib"

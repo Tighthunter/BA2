@@ -1,0 +1,15 @@
+# Unreal Generated Files
+RTS/Build
+RTS/Binaries
+RTS/DerivedDataCache
+RTS/Intermediate
+RTS/Saved
+RTS/Content/StarterContent
+RTS/Content/Model/es
+RTS/Content/Model/fr
+RTS/Content/Model/ru
+RTS/Content/Model/zn
+
+# Visual Studio Generated Files
+*.VC.db
+*.suo
